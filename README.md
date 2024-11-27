@@ -1,4 +1,4 @@
-#AI4HumanSelfLearning
+# AI4HumanSelfLearning
 
 I am a recent computer science major who has been struggling with self-study. I heavily rely on large language models, and with their help, I have learned a lot and made rapid progress.
 
