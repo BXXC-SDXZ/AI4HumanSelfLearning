@@ -1,3 +1,5 @@
+#AI4HumanSelfLearning
+
 I am a recent computer science major who has been struggling with self-study. I heavily rely on large language models, and with their help, I have learned a lot and made rapid progress.
 
 I have found that large language models (such as ChatGPT-4o and others) are incredibly helpful to human learners due to their strong prior knowledge and RAG technology, as well as their increasingly powerful reasoning and analogical abilities.
